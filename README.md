@@ -1,8 +1,16 @@
 # webstart-HardwareShop
 
+-----------------------------
+
 Fonctionnalités: <br>
 
-
+-Moteur de recherche Avancé
+-Avis utilisateurs sur chaque produit
+-FAQ
+-Authentification + gestion du compte
+-Comparateur de produits
+-Wishlist
+-Nombreux modes de livraisons
 
 
 
