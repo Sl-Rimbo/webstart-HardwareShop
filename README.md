@@ -4,35 +4,33 @@
 
 Fonctionnalités: <br>
 
--Moteur de recherche Avancé
--Avis utilisateurs sur chaque produit
--FAQ
--Authentification + gestion du compte
--Comparateur de produits
--Wishlist
--Nombreux modes de livraisons
+-Moteur de recherche Avancé<br>
+-Avis utilisateurs sur chaque produit<br>
+-FAQ<br>
+-Authentification + gestion du compte<br>
+-Comparateur de produits<br>
+-Wishlist<br>
+-Nombreux modes de livraisons<br>
 
 
 
 
 
 -------------------------------
-navbar:
-Informatique*
-    -Périphériques
-    -Pièces
-    -Ordinateurs fixe
-    -Ordinateur portable
-    -Configurateur PC
-Images et sons*
-Jeux et consoles*
-Téléphonie*
+navbar:<br>
+Informatique*<br>
+    -Périphériques<br>
+    -Pièces<br>
+    -Ordinateurs fixe<br>
+    -Ordinateur portable<br>
+    -Configurateur PC<br>
+Images et sons*<br>
+Jeux et consoles*<br>
+Téléphonie*<br>
 
--Promos
--Nouveautés
-
-
--Compte
--Panier
--Boutiques
--Aide**
+-Promos<br>
+-Nouveautés<br>
+-Compte<br>
+-Panier<br>
+-Boutiques<br>
+-Aide<br>
