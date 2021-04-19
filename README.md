@@ -1,5 +1,14 @@
 # webstart-HardwareShop
 
+Fonctionnalités: <br>
+
+
+
+
+
+
+
+-------------------------------
 navbar:
 Informatique*
     -Périphériques
@@ -14,8 +23,6 @@ Téléphonie*
 -Promos
 -Nouveautés
 
-
------------
 
 -Compte
 -Panier
